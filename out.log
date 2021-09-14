@@ -1,0 +1,31 @@
+2021-09-13 15:25:17.449 | INFO     | __main__:<module>:9 - just printing
+2021-09-13 15:25:23.255 | INFO     | __main__:<module>:9 - just printing
+2021-09-13 15:25:25.981 | INFO     | __main__:<module>:9 - just printing
+2021-09-13 15:28:10.345 | INFO     | __main__:<module>:19 - experimenting with logger
+2021-09-13 15:28:54.454 | INFO     | __main__:<module>:19 - experimenting with logger
+2021-09-13 15:32:36.386 | INFO     | __main__:<module>:19 - experimenting with logger
+2021-09-13 15:33:25.746 | INFO     | __main__:<module>:19 - experimenting with logger
+2021-09-13 15:45:31.903 | INFO     | __main__:<module>:39 - experimenting with logger
+2021-09-13 15:45:45.390 | INFO     | __main__:<module>:39 - experimenting with logger
+2021-09-13 15:46:54.401 | INFO     | __main__:<module>:39 - experimenting with logger
+2021-09-13 16:24:32.867 | INFO     | __main__:<module>:18 - message
+2021-09-13 16:24:41.745 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:24:53.084 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:25:57.917 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:27:16.609 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:28:16.847 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:29:16.157 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:29:31.815 | INFO     | __main__:<module>:24 - completed first tqdm
+2021-09-13 16:29:31.819 | SUCCESS  | __main__:<module>:29 - completed
+2021-09-13 16:29:39.582 | INFO     | __main__:<module>:19 - message
+2021-09-13 16:29:55.649 | INFO     | __main__:<module>:24 - completed first tqdm
+2021-09-13 16:29:55.817 | SUCCESS  | __main__:<module>:29 - completed
+2021-09-13 16:37:17.547 | INFO     | __main__:main:21 - MESSAGE
+2021-09-13 16:37:29.758 | INFO     | __main__:main:26 - completed first tqdm
+2021-09-13 16:37:29.968 | SUCCESS  | __main__:main:31 - completed
+2021-09-13 16:37:36.929 | INFO     | __main__:main:21 - hello
+2021-09-13 16:37:51.802 | INFO     | __main__:main:26 - completed first tqdm
+2021-09-13 16:37:51.962 | SUCCESS  | __main__:main:31 - completed
+2021-09-13 21:59:15.925 | INFO     | __main__:main:28 - hello
+2021-09-13 21:59:27.022 | INFO     | __main__:main:33 - completed first tqdm
+2021-09-13 21:59:27.197 | SUCCESS  | __main__:main:38 - completed
