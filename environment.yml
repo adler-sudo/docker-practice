@@ -41,4 +41,3 @@ dependencies:
     - six==1.16.0
     - typer==0.4.0
     - urllib3==1.26.6
-prefix: /home/james/miniconda3/envs/practice
