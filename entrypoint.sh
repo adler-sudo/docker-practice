@@ -3,4 +3,4 @@
 # enabling Conda.
 set -euo pipefail
 conda activate myenv
-exec python main.py goodbye luhyou friend
+exec python main.py goodbye hello world
